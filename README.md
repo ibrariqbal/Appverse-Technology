@@ -1,2 +1,2 @@
-# Responsive-Web-HTML-CSS-JavaScript-
+# Responsive-Web-HTML-CSS-JavaScript
 Appeverse Assignment #2
